@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/owner/.claude/projects/c--Users-owner-Desktop-primero/memory//**)",
+      "Read(//c/Users/owner/.claude/projects/c--Users-owner-Desktop-primero/memory/**)",
+      "Bash(git -C /c/Users/owner/Desktop/primero log --oneline -5)",
+      "Bash(git -C /c/Users/owner/Desktop/primero diff HEAD)"
+    ]
+  }
+}
